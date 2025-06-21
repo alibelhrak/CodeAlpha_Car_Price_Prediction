@@ -52,19 +52,16 @@ The dataset contains car-related features including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
-   cd car-price-prediction
+   git clone https://github.com/alibelhrak/CodeAlpha_Car_Price_Prediction.git
    ```
 Install dependencies:
    ```bash
    pip install -r requirements.txt
 
    ```
-Place your dataset CSV file (e.g., car_data.csv) in the project folder.
-
-Run the main script:
+dataset : 
    ```bash
-   python car_price_prediction.p
+   https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars
    ```
 Results
 The Random Forest Regressor achieved a Mean Squared Error (MSE) of approximately 0.035 (on scaled data), indicating strong predictive performance.
